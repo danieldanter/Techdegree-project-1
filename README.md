@@ -1,2 +1,2 @@
-# dechdegree-project-1
- First Project of dechdegree
+# Techdegree-project-1
+ First Project of Techdegree! Lets go!!!!!!
